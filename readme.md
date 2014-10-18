@@ -29,7 +29,7 @@ Install
 3. Save the file and run it with:
  ```sh
  cd ~/Documents/remotereboot
- sudo bash remotereboot.sh
+ sudo bash remotereboot.sh &
  ```
 
 The script will sleep until the desired number of seconds has elapsed. It will then download the web page and check for a value of "1". If found, it will reboot the computer.
