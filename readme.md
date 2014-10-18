@@ -4,9 +4,7 @@ Remote Reboot
 
 Reboot your PC while away from home.
 
-Ever had the need to reboot your computer while away? Perhaps your remote connection software crashed? Maybe your VPN froze up?
-
-Remote Reboot is a bash script that periodically checks a web page for a value of 0 or 1 to determine if it should reboot the local computer.
+Ever had the need to reboot your computer while away? Remote Reboot is a bash script that periodically checks a web page for a value of 0 or 1 to determine if it should reboot the local computer.
 
 When you want the computer to reboot, just upload a new web page with the contents: 1
 For all other cases, upload a web page with the contents: 0
