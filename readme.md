@@ -2,7 +2,7 @@ Remote Reboot
 =============
 ### for Linux/Mac
 
-Reboot your PC while away from home.
+Reboot your Linux/Mac while away from home.
 
 Ever had the need to reboot your computer while away? Remote Reboot is a bash script that periodically checks a web page for a value of 0 or 1 to determine if it should reboot the local computer.
 
